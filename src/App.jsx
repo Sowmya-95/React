@@ -1,11 +1,10 @@
-import Main from './components/Main'
+import AssemblyEndGame from './components/AssemblyEndGame'
 
 function App() {
 
   return (
-    <>
-      <Main />
-    </>
+
+    <AssemblyEndGame />
   )
 }
 
